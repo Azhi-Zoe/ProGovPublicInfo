@@ -229,7 +229,7 @@
 
 某知乎用户回答如下，并且他提到他做了一个类似项目，之后打开评论区，看点来啦！
 
-![image-20190120120221419](/var/folders/pv/gytzdvsx2ps314hrxnxqgh2r0000gn/T/abnerworks.Typora/image-20190120120221419.png)
+![知乎回答一](https://upload-images.jianshu.io/upload_images/15971508-cdce13b137a5e5c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 媒体报道来源：[创客记丨A轮数千万，100万人忍不住付费，就9000万条企业数据，他凭什么俘获红杉资本？](http://www.ckgsnews.com/cms/index/detail/id/107.html)
 
