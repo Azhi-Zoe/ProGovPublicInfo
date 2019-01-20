@@ -201,57 +201,76 @@
 * 观研天下公司成立信息：2012 年成立，注册资本仅 10 万，主营业务即提供行业分析报告。
 
 ![案例四-观研天下公司信息](https://upload-images.jianshu.io/upload_images/15971508-57066d599d26ca97.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-* 中国产业调查网成立于 2009 年，注册资本 100 万，但是不仅提供行业分析报告，还会提供业务。
-![案例四-中国产业调查网](https://upload-images.jianshu.io/upload_images/15971508-6cbbfa01d1848afd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+以下为观研天下公司简介：
+
+![案例四-观研天下](https://upload-images.jianshu.io/upload_images/15971508-b3137e0fc7512339.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+* 中国产业调查网成立于 2009 年，注册资本 100 万，但是不仅提供行业分析报告，还会提供其他业务。
+  ![案例四-中国产业调查网](https://upload-images.jianshu.io/upload_images/15971508-6cbbfa01d1848afd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+以下为中国产业调研网简介：
+
+![中国产业调查网](https://upload-images.jianshu.io/upload_images/15971508-225d6fb13fe3ffe3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+该公司的数据也有大量是直接来源于政府公开的信息。
+
+![中国产业调查网-数据来源](https://upload-images.jianshu.io/upload_images/15971508-221973b18c5c17d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 实战案例6：企查查、天眼查数据来源
 
-[企查查、企+这种网站、APP的详细数据来源是哪里？ - 知乎](https://www.zhihu.com/question/37951119)
+### 政府公开的企业征信价值几何？
 
-[国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)
+还记得开头跟大家提到的企查查和天眼查的数据来源吗？现在我们对这类商业征信 App 的数据来源进行大起底！
 
-![案例五-国家企业信用信息公示](https://upload-images.jianshu.io/upload_images/15971508-65c7c52df13f588d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+首先让我们聚焦知乎上的这个问题：
 
-回答一：
+[企查查、企+这种网站、APP的详细数据来源是哪里？](https://www.zhihu.com/question/37951119)
+
+某知乎用户回答如下，并且他提到他做了一个类似项目，之后打开评论区，看点来啦！
 
 ![image-20190120120221419](/var/folders/pv/gytzdvsx2ps314hrxnxqgh2r0000gn/T/abnerworks.Typora/image-20190120120221419.png)
 
-在知乎的这个回答下面找到了很多想要购买回答者数据的留言：
+媒体报道来源：[创客记丨A轮数千万，100万人忍不住付费，就9000万条企业数据，他凭什么俘获红杉资本？](http://www.ckgsnews.com/cms/index/detail/id/107.html)
 
-
+在知乎的这个回答下面很多人表示想要购买或者合作，政府公开的数据背后的价值远远超过我们的想象。
 
 ![案例五-知乎评论](https://upload-images.jianshu.io/upload_images/15971508-3444d4cf8d13dcb0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![案例五-购买留言](https://upload-images.jianshu.io/upload_images/15971508-0b53cba3635d9afa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-回答二：企查查和天眼查的数据来源
-
-来源：https://www.zhihu.com/question/37951119/answer/302100350
-
-* API 是各机构、平台常用的渠道。涵盖范围包括工商、法院、知识产权等等。渠道提供方有第一手（如早前支付宝直接接入国家高院信息），也有二手N手，不论几手，都是从第一手出来，最多加工处理下。
-
-* 信息缓存：A用户在企查查上查询了B企业，B企业的信息就缓存下来，短期内任何人来查B都看到B了，同时这些信息和数据也在天眼查上缓存下来了。这么做的目的是为了时效和成本：API是要钱的！！！缓存下来，下一次查出结果更快。当然缓存下来也是平台本身的资产，这些都是数据啊，随便分析下都能弄个数据产品，你查信息免费，可是投资关系、经营力、热度……这些对普通人来说就要太大的时间和精力才能得出结论。何况还有宏观的行业、地域等数据分析，以及一些探索性的数据产品可以产出。
-
-### 其他商业征信公司-信用视界
+### 比企查查和天眼查更早的商业征信公司-信用视界
 
 2006 年成立的全国企业信用信息在线查询与监控平台，官网：[信用视界-专业的企业信息查询](https://www.x315.com/)
 
 ![案例五-其他商业网](https://upload-images.jianshu.io/upload_images/15971508-60c37fb538945ca2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 企查查、天眼查存在的问题
+### 企业征信信息源头——国家企业信用信息公示系统
 
-使用背后**实效性问题以及注册用户隐私问题**
+官网：[国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)
 
-我们说下时效性的问题。 如何保证数据的实时传递？ 在每次查询的时候同时爬取？还是通过某个周期爬取？ 我自己公司年初更改的注册资本，前两天天眼查发来信息说他们数据库刚收录的工商变更。 所以你们的关联查询一定是正确的？ 还是说你们的资本对接的尽职调查之类的只要大致正确就可以了？  注册用户，一定是为了方便从这些注册用户上获利为目的的。 甚至可以反向向被查询公司提供谁查询了你，这项业务。
+![案例五-国家企业信用信息公示](https://upload-images.jianshu.io/upload_images/15971508-65c7c52df13f588d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-来源：https://www.zhihu.com/question/37951119/answer/128493468
+#### 活动钱包 App 获 5000 万天使轮投资背后的秘密
 
-### 活动钱包 App 获 5000 万天使轮投资背后的秘密
-
-[成功将装逼的人打脸是一种怎样的体验？ - 知乎](https://www.zhihu.com/question/38200535/answer/94991994)
-
-答主通过在[国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)查找「活动钱包」的公司「四川速通科技」的股权变更记录，确认了该公司的确获得了 5000 万融资，但是真正震惊的是他发现投资「活动钱包」的这家「四川亚天科技股份有限公司」的注册资本只有 5000 万，法定代表人名字和「速通科技」的一样，连股东也和「速通科技」的一样。
+曾有网友通过[国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)查找「活动钱包」的公司「四川速通科技」的股权变更记录，确认了该公司的确获得了 5000 万融资，但是真正震惊的是他发现投资「活动钱包」的这家「四川亚天科技股份有限公司」的注册资本只有 5000 万，法定代表人名字和「速通科技」的一样，连股东也和「速通科技」的一样。
 
 到这里，谜底就被揭开了：
 
 > 速通科技的两位股东成立了一家公司，也就是「亚天科技」，然后通过「亚天科技」将 5000万投入「速通科技」，然后占据了 5% 的股份。
+
+来源：[成功将装逼的人打脸是一种怎样的体验？ - 知乎](https://www.zhihu.com/question/38200535/answer/94991994)
+
+### 企查查、天眼查存在的问题
+
+#### 实效性问题以及注册用户隐私问题
+
+> 我们说下时效性的问题。 如何保证数据的实时传递？ 在每次查询的时候同时爬取？还是通过某个周期爬取？ 我自己公司年初更改的注册资本，前两天天眼查发来信息说他们数据库刚收录的工商变更。 所以你们的关联查询一定是正确的？ 还是说你们的资本对接的尽职调查之类的只要大致正确就可以了？  注册用户，一定是为了方便从这些注册用户上获利为目的的。 甚至可以反向向被查询公司提供谁查询了你，这项业务。
+
+来源：https://www.zhihu.com/question/37951119/answer/128493468
+
+#### 信息是否始终同官方信息一致？
+
+> 曾有一用户打电话给我们，说十万火急，赶快把他的失信记录处理掉，不然没办法拿到澳大利亚签证。”施阳回忆道，原来这哥们去领事馆办签证手续时，签证官用“企查查”查询到其名下企业在人民法院有失信记录。当然，他的公司只有执行完成判决后，人民法院才会移除对应失信记录。
+
+来源：：[创客记丨A轮数千万，100万人忍不住付费，就9000万条企业数据，他凭什么俘获红杉资本？](http://www.ckgsnews.com/cms/index/detail/id/107.html)
